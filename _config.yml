@@ -1,0 +1,28 @@
+name: Gautham
+favicon: null
+layout_spectrum: 0.13251925632357597
+typography_spectrum: 0.41486484673805535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6998508633114398
+  lightness: 0.3716690419241786
+  saturation: 0.5077169069554657
+  rhythmicContrast: 0.40967607381753623
+purpose: []
